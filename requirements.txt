@@ -1,0 +1,7 @@
+opencv-python>=4.8.0.76
+mediapipe==0.10.14
+protobuf>=4.25.3,<5
+numpy>=1.24.0,<2.0.0
+matplotlib>=3.7.0
+pandas>=2.0.0
+streamlit>=1.30.0
